@@ -1,0 +1,88 @@
+﻿@model IEnumerable<TechTest.Models.Item>
+
+@{
+    ViewBag.Title = "Item List";
+}
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["Message"]
+    </div>
+}
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">
+        @TempData["ErrorMessage"]
+    </div>
+}
+
+<div class="container mt-5">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h2 class="text-primary">Item List</h2>
+        <a href="@Url.Action("Create", "Item")" class="btn btn-success">
+            <i class="bi bi-plus-circle"></i> Add New Item
+        </a>
+    </div>
+
+    <form method="get" action="@Url.Action("Index", "Item")" class="mb-4">
+        <div class="input-group">
+            <input type="text" name="searchQuery" value="@ViewBag.SearchQuery" placeholder="Search items by name or description..." class="form-control" />
+            <button class="btn btn-primary" type="submit">
+                <i class="bi bi-search"></i> Search
+            </button>
+        </div>
+    </form>
+
+    @if (!Model.Any())
+    {
+        <div class="alert alert-warning" role="alert">
+            No items match your search criteria. Try modifying your search query or click <strong>Add New Item</strong> to create a new one.
+        </div>
+    }
+    else
+    {
+        <table class="table table-hover table-striped">
+            <thead class="table-dark">
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Description</th>
+                    <th>Price</th>
+                    <th>Status</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Id</td>
+                        <td>@item.Name</td>
+                        <td>@item.Description</td>
+                        <td>@item.Price</td>
+                        <td>
+                            @if (!item.IsActive)
+                            {
+                                <span class="badge bg-danger">Inactive</span>
+                            }
+                            else
+                            {
+                                <span class="badge bg-success">Active</span>
+                            }
+                        </td>
+                        <td>
+                            <a href="@Url.Action("Edit", "Item", new { id = item.Id })"
+                               class="btn btn-warning btn-sm">
+                                <i class="bi bi-pencil-square"></i> Edit
+                            </a>
+                            <a href="@Url.Action("Delete", "Item", new { id = item.Id })"
+                               class="btn btn-danger btn-sm">
+                                <i class="bi bi-trash"></i> Delete
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+</div>

@@ -1,0 +1,365 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Mobile Data\\Tech Test\\TechTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{743EAC43-2CE5-4948-90A4-5F9C063604C4}|TechTest\\TechTest.csproj|D:\\Mobile Data\\Tech Test\\TechTest\\techtest\\views\\item\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{743EAC43-2CE5-4948-90A4-5F9C063604C4}|TechTest\\TechTest.csproj|solutionrelative:techtest\\views\\item\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743EAC43-2CE5-4948-90A4-5F9C063604C4}|TechTest\\TechTest.csproj|D:\\Mobile Data\\Tech Test\\TechTest\\techtest\\views\\item\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{743EAC43-2CE5-4948-90A4-5F9C063604C4}|TechTest\\TechTest.csproj|solutionrelative:techtest\\views\\item\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743EAC43-2CE5-4948-90A4-5F9C063604C4}|TechTest\\TechTest.csproj|D:\\Mobile Data\\Tech Test\\TechTest\\techtest\\views\\item\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{743EAC43-2CE5-4948-90A4-5F9C063604C4}|TechTest\\TechTest.csproj|solutionrelative:techtest\\views\\item\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743EAC43-2CE5-4948-90A4-5F9C063604C4}|TechTest\\TechTest.csproj|D:\\Mobile Data\\Tech Test\\TechTest\\techtest\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743EAC43-2CE5-4948-90A4-5F9C063604C4}|TechTest\\TechTest.csproj|solutionrelative:techtest\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743EAC43-2CE5-4948-90A4-5F9C063604C4}|TechTest\\TechTest.csproj|d:\\mobile data\\tech test\\techtest\\techtest\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743EAC43-2CE5-4948-90A4-5F9C063604C4}|TechTest\\TechTest.csproj|solutionrelative:techtest\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743EAC43-2CE5-4948-90A4-5F9C063604C4}|TechTest\\TechTest.csproj|D:\\Mobile Data\\Tech Test\\TechTest\\techtest\\views\\item\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{743EAC43-2CE5-4948-90A4-5F9C063604C4}|TechTest\\TechTest.csproj|solutionrelative:techtest\\views\\item\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743EAC43-2CE5-4948-90A4-5F9C063604C4}|TechTest\\TechTest.csproj|D:\\Mobile Data\\Tech Test\\TechTest\\techtest\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743EAC43-2CE5-4948-90A4-5F9C063604C4}|TechTest\\TechTest.csproj|solutionrelative:techtest\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743EAC43-2CE5-4948-90A4-5F9C063604C4}|TechTest\\TechTest.csproj|d:\\mobile data\\tech test\\techtest\\techtest\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743EAC43-2CE5-4948-90A4-5F9C063604C4}|TechTest\\TechTest.csproj|solutionrelative:techtest\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743EAC43-2CE5-4948-90A4-5F9C063604C4}|TechTest\\TechTest.csproj|D:\\Mobile Data\\Tech Test\\TechTest\\techtest\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743EAC43-2CE5-4948-90A4-5F9C063604C4}|TechTest\\TechTest.csproj|solutionrelative:techtest\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E36E110-C9E7-4AEC-81AC-12AAB246B31A}|TechTest.Tests\\TechTest.Tests.csproj|d:\\mobile data\\tech test\\techtest\\techtest.tests\\mockitemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E36E110-C9E7-4AEC-81AC-12AAB246B31A}|TechTest.Tests\\TechTest.Tests.csproj|solutionrelative:techtest.tests\\mockitemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E36E110-C9E7-4AEC-81AC-12AAB246B31A}|TechTest.Tests\\TechTest.Tests.csproj|d:\\mobile data\\tech test\\techtest\\techtest.tests\\controllers\\itemapicontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E36E110-C9E7-4AEC-81AC-12AAB246B31A}|TechTest.Tests\\TechTest.Tests.csproj|solutionrelative:techtest.tests\\controllers\\itemapicontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E36E110-C9E7-4AEC-81AC-12AAB246B31A}|TechTest.Tests\\TechTest.Tests.csproj|D:\\Mobile Data\\Tech Test\\TechTest\\techtest.tests\\controllers\\itemcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E36E110-C9E7-4AEC-81AC-12AAB246B31A}|TechTest.Tests\\TechTest.Tests.csproj|solutionrelative:techtest.tests\\controllers\\itemcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743EAC43-2CE5-4948-90A4-5F9C063604C4}|TechTest\\TechTest.csproj|D:\\Mobile Data\\Tech Test\\TechTest\\techtest\\controllers\\itemapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743EAC43-2CE5-4948-90A4-5F9C063604C4}|TechTest\\TechTest.csproj|solutionrelative:techtest\\controllers\\itemapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743EAC43-2CE5-4948-90A4-5F9C063604C4}|TechTest\\TechTest.csproj|D:\\Mobile Data\\Tech Test\\TechTest\\techtest\\models\\itemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743EAC43-2CE5-4948-90A4-5F9C063604C4}|TechTest\\TechTest.csproj|solutionrelative:techtest\\models\\itemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|TechTest.Tests||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743EAC43-2CE5-4948-90A4-5F9C063604C4}|TechTest\\TechTest.csproj|D:\\Mobile Data\\Tech Test\\TechTest\\techtest\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743EAC43-2CE5-4948-90A4-5F9C063604C4}|TechTest\\TechTest.csproj|solutionrelative:techtest\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743EAC43-2CE5-4948-90A4-5F9C063604C4}|TechTest\\TechTest.csproj|D:\\Mobile Data\\Tech Test\\TechTest\\techtest\\migrations\\202501021522203_initialcreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743EAC43-2CE5-4948-90A4-5F9C063604C4}|TechTest\\TechTest.csproj|solutionrelative:techtest\\migrations\\202501021522203_initialcreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743EAC43-2CE5-4948-90A4-5F9C063604C4}|TechTest\\TechTest.csproj|D:\\Mobile Data\\Tech Test\\TechTest\\techtest\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{743EAC43-2CE5-4948-90A4-5F9C063604C4}|TechTest\\TechTest.csproj|solutionrelative:techtest\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743EAC43-2CE5-4948-90A4-5F9C063604C4}|TechTest\\TechTest.csproj|D:\\Mobile Data\\Tech Test\\TechTest\\techtest\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743EAC43-2CE5-4948-90A4-5F9C063604C4}|TechTest\\TechTest.csproj|solutionrelative:techtest\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743EAC43-2CE5-4948-90A4-5F9C063604C4}|TechTest\\TechTest.csproj|D:\\Mobile Data\\Tech Test\\TechTest\\techtest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{743EAC43-2CE5-4948-90A4-5F9C063604C4}|TechTest\\TechTest.csproj|solutionrelative:techtest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E36E110-C9E7-4AEC-81AC-12AAB246B31A}|TechTest.Tests\\TechTest.Tests.csproj|d:\\mobile data\\tech test\\techtest\\techtest.tests\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "D:\\Mobile Data\\Tech Test\\TechTest\\TechTest\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "TechTest\\App_Start\\FilterConfig.cs",
+              "ToolTip": "D:\\Mobile Data\\Tech Test\\TechTest\\TechTest\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "TechTest\\App_Start\\FilterConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T17:47:04.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\Mobile Data\\Tech Test\\TechTest\\TechTest\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "TechTest\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\Mobile Data\\Tech Test\\TechTest\\TechTest\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "TechTest\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T17:47:02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MockItemContext.cs",
+              "DocumentMoniker": "D:\\Mobile Data\\Tech Test\\TechTest\\TechTest.Tests\\MockItemContext.cs",
+              "RelativeDocumentMoniker": "TechTest.Tests\\MockItemContext.cs",
+              "ToolTip": "D:\\Mobile Data\\Tech Test\\TechTest\\TechTest.Tests\\MockItemContext.cs",
+              "RelativeToolTip": "TechTest.Tests\\MockItemContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T17:13:30.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ItemApiControllerTests.cs",
+              "DocumentMoniker": "D:\\Mobile Data\\Tech Test\\TechTest\\TechTest.Tests\\Controllers\\ItemApiControllerTests.cs",
+              "RelativeDocumentMoniker": "TechTest.Tests\\Controllers\\ItemApiControllerTests.cs",
+              "ToolTip": "D:\\Mobile Data\\Tech Test\\TechTest\\TechTest.Tests\\Controllers\\ItemApiControllerTests.cs",
+              "RelativeToolTip": "TechTest.Tests\\Controllers\\ItemApiControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T16:39:45.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ItemControllerTests.cs",
+              "DocumentMoniker": "D:\\Mobile Data\\Tech Test\\TechTest\\TechTest.Tests\\Controllers\\ItemControllerTests.cs",
+              "RelativeDocumentMoniker": "TechTest.Tests\\Controllers\\ItemControllerTests.cs",
+              "ToolTip": "D:\\Mobile Data\\Tech Test\\TechTest\\TechTest.Tests\\Controllers\\ItemControllerTests.cs",
+              "RelativeToolTip": "TechTest.Tests\\Controllers\\ItemControllerTests.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwCYAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T16:35:05.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TechTest.Tests",
+              "DocumentMoniker": "D:\\Mobile Data\\Tech Test\\TechTest\\TechTest.Tests\\TechTest.Tests.csproj",
+              "RelativeDocumentMoniker": "TechTest.Tests\\TechTest.Tests.csproj",
+              "ToolTip": "D:\\Mobile Data\\Tech Test\\TechTest\\TechTest.Tests\\TechTest.Tests.csproj",
+              "RelativeToolTip": "TechTest.Tests\\TechTest.Tests.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-02T16:27:44.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "202501021522203_InitialCreate1.cs",
+              "DocumentMoniker": "D:\\Mobile Data\\Tech Test\\TechTest\\TechTest\\Migrations\\202501021522203_InitialCreate1.cs",
+              "RelativeDocumentMoniker": "TechTest\\Migrations\\202501021522203_InitialCreate1.cs",
+              "ToolTip": "D:\\Mobile Data\\Tech Test\\TechTest\\TechTest\\Migrations\\202501021522203_InitialCreate1.cs",
+              "RelativeToolTip": "TechTest\\Migrations\\202501021522203_InitialCreate1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T15:22:26.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "D:\\Mobile Data\\Tech Test\\TechTest\\TechTest\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "TechTest\\Migrations\\Configuration.cs",
+              "ToolTip": "D:\\Mobile Data\\Tech Test\\TechTest\\TechTest\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "TechTest\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T15:19:18.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\Mobile Data\\Tech Test\\TechTest\\TechTest\\Global.asax.cs",
+              "RelativeDocumentMoniker": "TechTest\\Global.asax.cs",
+              "ToolTip": "D:\\Mobile Data\\Tech Test\\TechTest\\TechTest\\Global.asax.cs",
+              "RelativeToolTip": "TechTest\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T15:18:06.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "D:\\Mobile Data\\Tech Test\\TechTest\\TechTest\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "TechTest\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "D:\\Mobile Data\\Tech Test\\TechTest\\TechTest\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "TechTest\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T15:14:06.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ItemApiController.cs",
+              "DocumentMoniker": "D:\\Mobile Data\\Tech Test\\TechTest\\TechTest\\Controllers\\ItemApiController.cs",
+              "RelativeDocumentMoniker": "TechTest\\Controllers\\ItemApiController.cs",
+              "ToolTip": "D:\\Mobile Data\\Tech Test\\TechTest\\TechTest\\Controllers\\ItemApiController.cs",
+              "RelativeToolTip": "TechTest\\Controllers\\ItemApiController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T15:13:35.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Mobile Data\\Tech Test\\TechTest\\TechTest\\Views\\Item\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TechTest\\Views\\Item\\Delete.cshtml",
+              "ToolTip": "D:\\Mobile Data\\Tech Test\\TechTest\\TechTest\\Views\\Item\\Delete.cshtml",
+              "RelativeToolTip": "TechTest\\Views\\Item\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-02T14:56:50.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Mobile Data\\Tech Test\\TechTest\\TechTest\\Views\\Item\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TechTest\\Views\\Item\\Edit.cshtml",
+              "ToolTip": "D:\\Mobile Data\\Tech Test\\TechTest\\TechTest\\Views\\Item\\Edit.cshtml",
+              "RelativeToolTip": "TechTest\\Views\\Item\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwA4AAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-02T14:50:10.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ItemContext.cs",
+              "DocumentMoniker": "D:\\Mobile Data\\Tech Test\\TechTest\\TechTest\\Models\\ItemContext.cs",
+              "RelativeDocumentMoniker": "TechTest\\Models\\ItemContext.cs",
+              "ToolTip": "D:\\Mobile Data\\Tech Test\\TechTest\\TechTest\\Models\\ItemContext.cs",
+              "RelativeToolTip": "TechTest\\Models\\ItemContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T14:34:18.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Mobile Data\\Tech Test\\TechTest\\TechTest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TechTest\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Mobile Data\\Tech Test\\TechTest\\TechTest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TechTest\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-02T07:05:00.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Mobile Data\\Tech Test\\TechTest\\TechTest\\Web.config",
+              "RelativeDocumentMoniker": "TechTest\\Web.config",
+              "ToolTip": "D:\\Mobile Data\\Tech Test\\TechTest\\TechTest\\Web.config",
+              "RelativeToolTip": "TechTest\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-01T13:32:30.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Mobile Data\\Tech Test\\TechTest\\TechTest\\Views\\Item\\Create.cshtml",
+              "RelativeDocumentMoniker": "TechTest\\Views\\Item\\Create.cshtml",
+              "ToolTip": "D:\\Mobile Data\\Tech Test\\TechTest\\TechTest\\Views\\Item\\Create.cshtml",
+              "RelativeToolTip": "TechTest\\Views\\Item\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwA4AAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T13:45:46.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Mobile Data\\Tech Test\\TechTest\\TechTest\\Views\\Item\\Index.cshtml",
+              "RelativeDocumentMoniker": "TechTest\\Views\\Item\\Index.cshtml",
+              "ToolTip": "D:\\Mobile Data\\Tech Test\\TechTest\\TechTest\\Views\\Item\\Index.cshtml",
+              "RelativeToolTip": "TechTest\\Views\\Item\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T13:43:42.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "D:\\Mobile Data\\Tech Test\\TechTest\\TechTest\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "TechTest\\Controllers\\ItemController.cs",
+              "ToolTip": "D:\\Mobile Data\\Tech Test\\TechTest\\TechTest\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "TechTest\\Controllers\\ItemController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T13:37:04.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\Mobile Data\\Tech Test\\TechTest\\TechTest\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "TechTest\\Models\\Item.cs",
+              "ToolTip": "D:\\Mobile Data\\Tech Test\\TechTest\\TechTest\\Models\\Item.cs",
+              "RelativeToolTip": "TechTest\\Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T13:35:50.451Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
